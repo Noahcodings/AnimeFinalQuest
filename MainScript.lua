@@ -43,5 +43,5 @@ AutoWeapon:AddDropdown({
 		print(_G.SelectOdds)
 	end    
 })
-
+	end
 OrionLib:Init()
